@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442600988790",
+    "project_id": "sendin-78c67",
+    "storage_bucket": "sendin-78c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442600988790:android:7e0b98f00ca25c893cbf57",
+        "android_client_info": {
+          "package_name": "com.example.sendin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442600988790-26ds3rs27gf9so7fedoqqcoklguei7f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sendin",
+            "certificate_hash": "367ffa4e2e79e055a24f326d6ab0dd22411faec6"
+          }
+        },
+        {
+          "client_id": "442600988790-5cn6nqfs1s9nvimpa1a9vl4r7s39po81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKl5wzsuQV7MFJp50WUhag2fAKaGZMhq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442600988790-5cn6nqfs1s9nvimpa1a9vl4r7s39po81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
